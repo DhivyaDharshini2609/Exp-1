@@ -67,3 +67,9 @@ Design the database with tables for Customer, Account, and Transaction.
 # RESULT:
 
 Thus the Atm and banking System project was executed and the output was verified.
+
+.
+.
+.
+.
+.
